@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6f820d1-8ddf-4950-ba63-b7f1fc7ab850" name="Default Changelist" comment="" />
+    <list default="true" id="a6f820d1-8ddf-4950-ba63-b7f1fc7ab850" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlappyBird/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Lobby.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Lobby.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LoadGame/LoadingGame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LoadGame/LoadingGame.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Services/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Services/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,11 +60,11 @@
         <option value="$PROJECT_DIR$/Assets/BirdDeath.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PipeLogic/MovePipe.cs" />
         <option value="$PROJECT_DIR$/Assets/Load.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Services/GameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PipeLogic/TouchPipe.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Hero/FlyBehavior.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/LoadGame/LoadingGame.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LoadGame/StartGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Services/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LoadGame/LoadingGame.cs" />
       </list>
     </option>
   </component>
@@ -107,7 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716109960530</updated>
       <workItem from="1716109968757" duration="11777000" />
-      <workItem from="1716191666404" duration="5393000" />
+      <workItem from="1716191666404" duration="7284000" />
     </task>
     <servers />
   </component>
@@ -137,9 +145,13 @@
       <screen x="0" y="0" width="1707" height="929" />
     </state>
     <state x="601" y="290" key="#Notifications/0.0.1707.929@0.0.1707.929" timestamp="1716131085417" />
-    <state x="474" y="41" key="CommitChangelistDialog2" timestamp="1716110115279">
+    <state x="474" y="41" key="CommitChangelistDialog2" timestamp="1716198570086">
       <screen x="0" y="0" width="1707" height="929" />
     </state>
-    <state x="474" y="41" key="CommitChangelistDialog2/0.0.1707.929@0.0.1707.929" timestamp="1716110115278" />
+    <state x="474" y="41" key="CommitChangelistDialog2/0.0.1707.929@0.0.1707.929" timestamp="1716198570086" />
+    <state x="383" y="205" key="Vcs.Push.Dialog.v2" timestamp="1716198940717">
+      <screen x="0" y="0" width="1707" height="929" />
+    </state>
+    <state x="383" y="205" key="Vcs.Push.Dialog.v2/0.0.1707.929@0.0.1707.929" timestamp="1716198940717" />
   </component>
 </project>

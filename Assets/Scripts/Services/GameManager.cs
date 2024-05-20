@@ -13,6 +13,7 @@ namespace Services
         public TMP_Text scoreText;
         public TMP_Text maxScore;
         public GameObject playButton;
+        public GameObject returnLobby;
         public GameObject gameOver;
 
         public TMP_Text maxScoreDisplay;
@@ -80,6 +81,7 @@ namespace Services
             
             gameOver.gameObject.SetActive(true);
             playButton.SetActive(true);
+            returnLobby.SetActive(true);
             
             
             Pause();
